@@ -1,1 +1,7 @@
 My name is Prajwal gatge
+git init
+git add
+git commit
+git command --help
+git log --graph --all
+git diff
