@@ -5,3 +5,4 @@ git commit
 git command --help
 git log --graph --all
 git diff
+git status
